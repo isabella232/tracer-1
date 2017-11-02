@@ -6,11 +6,11 @@
 > Slick Call Stacks
 
 [![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
-[![Linux Build Status](https://travis-ci.org/MangoTheCat/tracer.svg?branch=master)](https://travis-ci.org/MangoTheCat/tracer)
-[![Windows Build status](https://ci.appveyor.com/api/projects/status/github/mangothecat/tracer?svg=true)](https://ci.appveyor.com/project/gaborcsardi/tracer)
+[![Linux Build Status](https://travis-ci.org/R-Lib/tracer.svg?branch=master)](https://travis-ci.org/R-Lib/tracer)
+[![Windows Build status](https://ci.appveyor.com/api/projects/status/github/r-lib/tracer?svg=true)](https://ci.appveyor.com/project/gaborcsardi/tracer)
 [![](http://www.r-pkg.org/badges/version/tracer)](http://www.r-pkg.org/pkg/tracer)
 [![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/tracer)](http://www.r-pkg.org/pkg/tracer)
-[![Coverage Status](https://img.shields.io/codecov/c/github/MangoTheCat/tracer/master.svg)](https://codecov.io/github/MangoTheCat/tracer?branch=master)
+[![Coverage Status](https://img.shields.io/codecov/c/github/R-Lib/tracer/master.svg)](https://codecov.io/github/R-Lib/tracer?branch=master)
 
 Better looking call stacks after an error.
 
@@ -18,7 +18,7 @@ Better looking call stacks after an error.
 
 
 ```r
-source("https://install-github.me/mangothecat/tracer")
+source("https://install-github.me/r-lib/tracer")
 ```
 
 ## Usage
@@ -49,4 +49,4 @@ changes the error handler manually, then `tracer` will not work.
 
 ## License
 
-MIT © Mango Solutions
+MIT © Mango Solutions, Gábor Csárdi, RStudio Inc.
