@@ -24,7 +24,7 @@ Better looking call stacks after an error.
 ## Installation
 
 ```{r eval = FALSE}
-source("https://install-github.me/r-lib/tracer")
+install.packages("tracer")
 ```
 
 ## Usage

@@ -18,7 +18,7 @@ Better looking call stacks after an error.
 
 
 ```r
-source("https://install-github.me/r-lib/tracer")
+install.packages("tracer")
 ```
 
 ## Usage
